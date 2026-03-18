@@ -47,7 +47,7 @@
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sshashankshekhar30&show_icons=true&theme=radical" alt="stats" />
 </p>
 
 ---
@@ -62,8 +62,8 @@
 ---
 
 ## 📫 Connect with Me  
-- 💼 LinkedIn: (Add your link here)  
-- 📧 Email: (Add your email here)  
+- 💼 LinkedIn: https://www.linkedin.com/in/singh-shashankshekhar/
+- 📧 Email: kingshashank786@gmail.com | sshashankshekhar30@gmail.com | shashankshekhardev193@gmail.com | techspireitlabs@gmail.com 
 
 ---
 
