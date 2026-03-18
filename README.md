@@ -1,88 +1,70 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Shashankshekhar Singh</h1>
-<h3 align="center">Java & Spring Boot Software Engineer | Microservices Architect | Big Data & Cybersecurity Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | 🔐 Defensive Cybersecurity Enthusiast | 📊 Data Analytics Explorer</h3>
 
 ---
 
-## 🚀 About Me
-
-💻 Software Development Engineer specialized in **Java & Spring Boot**  
-🏗️ Builder of **Microservices, REST APIs & Business Management Systems**  
-📊 Big Data & Analytics practitioner using **Hive, Flume, Sqoop, MapReduce**  
-🧠 Machine Learning Enthusiast – ANN | CNN | RNN | SVM | PCA | Random Forest | Gradient Boost  
-☁️ Cloud Explorer – AWS & GCP  
-🔐 Cybersecurity Learner & Solution-Oriented Technologist  
-
-I focus on building **scalable backend systems**, secure architectures, and data-driven applications that solve real-world business problems.
+## 👨‍💻 About Me  
+- 💻 Building **Web Applications & REST APIs**  
+- 🌐 Skilled in **Full Stack Development**  
+- 📊 Exploring **Big Data Analytics & Data-Driven Systems**  
+- 🛠️ Working in **IT Engineering & Infrastructure**  
+- 🔐 Passionate about **Defensive Cybersecurity**  
+- 🎯 Goal: To build **secure, scalable, and high-performance systems**  
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack  
 
-### 👨‍💻 Backend
-- Java
-- Spring Boot
-- Spring MVC
-- Microservices Architecture
-- REST APIs
-- Hibernate / JPA
+### 👨‍💻 Programming & Development  
+- ☕ Java | 🌱 Spring Boot | 🌐 REST APIs  
+- 🖥️ HTML | 🎨 CSS | ⚡ JavaScript | 🅱️ Bootstrap  
 
-### 📊 Big Data & Analytics
-- Hadoop Ecosystem (Hive, Sqoop, Flume)
-- MapReduce
-- Python
-- Jupyter Notebooks
-- Tableau
+### 🗄️ Databases  
+- 🐬 MySQL | 🍃 MongoDB  
 
-### 🤖 Machine Learning
-- ANN
-- CNN
-- RNN
-- SVM
-- PCA
-- Random Forest
-- Gradient Boosting
+### 📊 Data Analytics  
+- 📈 Data Analysis | Machine Learning Basics | Big Data Concepts  
 
-### ☁️ Cloud & DevOps
-- AWS
-- Google Cloud Platform (GCP)
-- Git
-- Linux
+### ☁️ Tools & Technologies  
+- 🛠️ Git & GitHub  
+- 🖥️ VS Code  
+- ☁️ Cloud (AWS | Azure | GCP - Learning Phase)  
 
-### 🔐 Cybersecurity
-- Network Security Fundamentals
-- Security Best Practices
-- Secure API Development
+### 🔐 Cybersecurity  
+- 🛡️ Network Security  
+- 🔍 Vulnerability Assessment  
+- 🚨 Defensive Security Practices  
 
 ---
 
-## 🧩 What I Build
-
-✔️ Enterprise REST APIs  
-✔️ Microservices-based Systems  
-✔️ Business Management Web Applications  
-✔️ Data Analytics Pipelines  
-✔️ Secure Backend Architectures  
+## 📌 Projects  
+- 🔹 Web Applications (Full Stack)  
+- 🔹 REST API Development  
+- 🔹 Data Analytics Projects  
+- 🔹 Cybersecurity & IT Infrastructure Projects  
 
 ---
 
-## 📈 Current Focus
-
-- Advanced System Design  
-- Cloud Native Architectures  
-- Backend Performance Optimization  
-- Cybersecurity Integration in Applications  
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="stats" />
+</p>
 
 ---
 
-## 🤝 Let’s Connect
-
-- 💼 LinkedIn: [Add Your Link]
-- ✍️ Medium: [Add Your Link]
-- 🧠 StackOverflow: [Add Your Link]
-- 📘 Quora: [Add Your Link]
+## 🎯 Interests & Hobbies  
+- ⚽ Football  
+- 🏏 Cricket  
+- ♟️ Chess  
+- 🔢 Sudoku  
+- 🎧 Listening to Music  
 
 ---
 
-⭐ “Building scalable systems. Securing digital ecosystems. Solving real problems.”
+## 📫 Connect with Me  
+- 💼 LinkedIn: (Add your link here)  
+- 📧 Email: (Add your email here)  
+
+---
+
+⭐ *"Building secure systems and scalable applications for the future."* 🚀
