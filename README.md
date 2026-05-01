@@ -1,70 +1,86 @@
-<h1 align="center">Hi 👋, I'm Shashankshekhar Singh</h1>
-<h3 align="center">🚀 Full Stack Developer | 🔐 Defensive Cybersecurity Enthusiast | 📊 Data Analytics Explorer</h3>
+# Shashankshekhar Singh
+
+🚀 Founder & CEO | 💻 Software Engineer (Java & Spring Boot) | 🔐 IT & Cybersecurity Consulting  
 
 ---
 
-## 👨‍💻 About Me  
-- 💻 Building **Web Applications & REST APIs**  
-- 🌐 Skilled in **Full Stack Development**  
-- 📊 Exploring **Big Data Analytics & Data-Driven Systems**  
-- 🛠️ Working in **IT Engineering & Infrastructure**  
-- 🔐 Passionate about **Defensive Cybersecurity**  
-- 🎯 Goal: To build **secure, scalable, and high-performance systems**  
+## 🧑‍💼 About
+
+Software Engineer and Technology Leader specializing in **Java and Spring Boot-based full stack development**, focused on building **secure, scalable, and enterprise-grade systems**.
+
+As Founder & CEO of **TECHSPIRE IT LABS LLP**, I lead development of **enterprise applications, secure architectures, and cybersecurity consulting solutions**.
 
 ---
 
-## 🚀 Tech Stack  
+## 💼 Core Expertise
 
-### 👨‍💻 Programming & Development  
-- ☕ Java | 🌱 Spring Boot | 🌐 REST APIs  
-- 🖥️ HTML | 🎨 CSS | ⚡ JavaScript | 🅱️ Bootstrap  
-
-### 🗄️ Databases  
-- 🐬 MySQL | 🍃 MongoDB  
-
-### 📊 Data Analytics  
-- 📈 Data Analysis | Machine Learning Basics | Big Data Concepts  
-
-### ☁️ Tools & Technologies  
-- 🛠️ Git & GitHub  
-- 🖥️ VS Code  
-- ☁️ Cloud (AWS | Azure | GCP - Learning Phase)  
-
-### 🔐 Cybersecurity  
-- 🛡️ Network Security  
-- 🔍 Vulnerability Assessment  
-- 🚨 Defensive Security Practices  
+- Full Stack Development (Java & Spring Boot)
+- REST APIs & Microservices Architecture
+- Enterprise Software Systems
+- IT Consulting & Solution Architecture
+- Cybersecurity & Secure Software Development
 
 ---
 
-## 📌 Projects  
-- 🔹 Web Applications (Full Stack)  
-- 🔹 REST API Development  
-- 🔹 Data Analytics Projects  
-- 🔹 Cybersecurity & IT Infrastructure Projects  
+## ⚙️ Tech Stack
+
+**Backend**  
+Java | Spring Boot | Spring MVC | Spring Security | Hibernate | JPA  
+
+**Frontend**  
+HTML | CSS | JavaScript  
+
+**Database**  
+MySQL | PostgreSQL  
+
+**Security**  
+JWT | OAuth2 | OWASP Secure Coding Practices  
+
+**Tools & Platforms**  
+Git | GitHub | Postman | Linux | Docker (Basics)
 
 ---
 
-## 📈 GitHub Stats  
+## 📊 GitHub Stats (Auto-Updating)
+
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sshashankshekhar30&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" height="170"/>
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=default&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🎯 Interests & Hobbies  
-- ⚽ Football  
-- 🏏 Cricket  
-- ♟️ Chess  
-- 🔢 Sudoku  
-- 🎧 Listening to Music  
+## 🚀 Featured Projects
+
+- 🔐 Secure Authentication System (Spring Security + JWT)  
+- 🧩 Enterprise Business Management System  
+- 🌐 Scalable REST API Platform  
+- 📊 Data Analytics & Reporting Engine  
 
 ---
 
-## 📫 Connect with Me  
-- 💼 LinkedIn: https://www.linkedin.com/in/singh-shashankshekhar/
-- 📧 Email: kingshashank786@gmail.com | sshashankshekhar30@gmail.com | shashankshekhardev193@gmail.com | techspireitlabs@gmail.com 
+## 🎯 Professional Focus
+
+- Scalable system architecture design  
+- Secure backend development  
+- Cybersecurity-driven engineering practices  
+- Business-oriented technology solutions  
 
 ---
 
-⭐ *"Building secure systems and scalable applications for the future."* 🚀
+## 📫 Connect
+
+- LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
+- Email: your.email@example.com  
+
+---
+
+## ⚡ Philosophy
+
+> Secure by design. Scalable by architecture. Built for real-world impact.
