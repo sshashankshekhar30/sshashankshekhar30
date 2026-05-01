@@ -76,8 +76,8 @@ Git | GitHub | Postman | Linux | Docker (Basics)
 
 ## 📫 Connect
 
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
-- Email: your.email@example.com  
+- LinkedIn: https://www.linkedin.com/in/singh-shashankshekhar/  
+- Email: kingshashank786@gmail.com | sshashankshekhar30@gmail.com | shashankshekhardev193@gmail.com | techspireitlabs@gmail.com  
 
 ---
 
