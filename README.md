@@ -1,86 +1,36 @@
-# Shashankshekhar Singh
+# I am Shashank Shekhar Singh
 
-🚀 Founder & CEO | 💻 Software Engineer (Java & Spring Boot) | 🔐 IT & Cybersecurity Consulting  
+Shashankshekhar Singh 👨‍💻
 
----
+I am a B.Tech. Computer Science Engineer and an aspiring Cybersecurity / Security Engineer with a strong foundation in software development, IT infrastructure, and enterprise technology.
 
-## 🧑‍💼 About
+I have 2.5+ years of professional experience in IT Helpdesk Engineering and IT Engineering Management within an enterprise hospitality environment, where I gained hands-on exposure to IT operations, troubleshooting, user support, system administration, networking, and enterprise technology environments.
 
-Software Engineer and Technology Leader specializing in **Java and Spring Boot-based full stack development**, focused on building **secure, scalable, and enterprise-grade systems**.
+My technical background also includes Java, Spring Boot, REST APIs, SQL, Linux, Python, Docker, Git, and software engineering, which I am leveraging to build security-focused tools and automation.
 
-As Founder & CEO of **TECHSPIRE IT LABS LLP**, I lead development of **enterprise applications, secure architectures, and cybersecurity consulting solutions**.
+My current cybersecurity interests include:
 
----
+🛡️ Security Operations (SOC)
+🔎 Security Monitoring & Log Analysis
+🚨 Incident Response
+📊 SIEM & Detection Engineering
+🔐 Identity & Access Management
+🌐 Network Security
+🔍 Vulnerability Management
+🐧 Linux & Windows Security
+☁️ Cloud Security
+🐍 Security Automation with Python
+🧠 MITRE ATT&CK & Threat Detection
+🔒 Application & API Security
 
-## 💼 Core Expertise
+I am also a Business Director at TECHSPIRE IT LABS LLP, a Government of India-registered MSME. My entrepreneurial experience has strengthened my communication, problem-solving, ownership, documentation, and technology-management skills.
 
-- Full Stack Development (Java & Spring Boot)
-- REST APIs & Microservices Architecture
-- Enterprise Software Systems
-- IT Consulting & Solution Architecture
-- Cybersecurity & Secure Software Development
+🎯 Career Objective
 
----
+I am actively seeking an entry-level opportunity in Cybersecurity / Security Engineering, particularly as a:
 
-## ⚙️ Tech Stack
+Junior Security Engineer | SOC Analyst | Security Operations Engineer | Cybersecurity Analyst | Security Automation Engineer | Junior Security Engineer
 
-**Backend**  
-Java | Spring Boot | Spring MVC | Spring Security | Hibernate | JPA  
+I am especially interested in organizations where I can combine my enterprise IT experience, software-development background, and growing cybersecurity expertise to help build, monitor, secure, and improve technology environments.
 
-**Frontend**  
-HTML | CSS | JavaScript  
-
-**Database**  
-MySQL | PostgreSQL  
-
-**Security**  
-JWT | OAuth2 | OWASP Secure Coding Practices  
-
-**Tools & Platforms**  
-Git | GitHub | Postman | Linux | Docker (Basics)
-
----
-
-## 📊 GitHub Stats (Auto-Updating)
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" height="170"/>
-</p>
-
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=default&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-- 🔐 Secure Authentication System (Spring Security + JWT)  
-- 🧩 Enterprise Business Management System  
-- 🌐 Scalable REST API Platform  
-- 📊 Data Analytics & Reporting Engine  
-
----
-
-## 🎯 Professional Focus
-
-- Scalable system architecture design  
-- Secure backend development  
-- Cybersecurity-driven engineering practices  
-- Business-oriented technology solutions  
-
----
-
-## 📫 Connect
-
-- LinkedIn: https://www.linkedin.com/in/singh-shashankshekhar/  
-- Email: kingshashank786@gmail.com | sshashankshekhar30@gmail.com | shashankshekhardev193@gmail.com | techspireitlabs@gmail.com  
-
----
-
-## ⚡ Philosophy
-
-> Secure by design. Scalable by architecture. Built for real-world impact.
+My goal: Build. Secure. Detect. Investigate. Automate. Defend.
