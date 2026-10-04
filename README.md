@@ -1,349 +1,129 @@
-👨‍💼 Shashankshekhar Singh GitHub Profile
+<div align="center">
 
-#I am Shashankshekhar Singh
-💻 Java Software Engineer | Backend Development | Software Engineering
-Fresher / Entry-Level Software Engineering candidate focused on Java, backend development, REST APIs, databases, Data Structures & Algorithms, and software engineering fundamentals.
-🎯 Target Experience: 0–2 Years / Fresher / Entry-Level
- 💼 Target Roles: Java Developer • Java Software Engineer • Backend Developer • Associate Software Engineer • Associate Java SDE • SDE 1 • Junior Software Engineer
- 🏢 Target Organizations: Product Companies • MNCs • GCCs • IT/ITeS • SaaS • BFSI • FinTech • Startups • MSP/MSSP • Enterprise Technology
+# 👋 Hi, I'm Shashankshekhar Singh
 
-───
+### Java Backend Developer | Spring Boot • Microservices • Security
 
-👨‍💻 Professional Summary
-I am building my career in software engineering with a primary focus on the Java ecosystem and backend application development.
-My technical interests include developing reliable backend applications, designing RESTful APIs, working with relational databases, applying object-oriented programming principles, solving algorithmic problems, and understanding the engineering practices used to develop and maintain enterprise software.
-I am particularly interested in opportunities where I can:
-• 💻 Develop and maintain Java-based applications and backend services.
-• 🔗 Build and integrate RESTful APIs.
-• 🗄️ Work with relational databases and SQL.
-• 🧩 Apply Data Structures & Algorithms to software engineering problems.
-• 🧪 Write readable, maintainable, and testable code.
-• 🐞 Participate in debugging, testing, code reviews, and application maintenance.
-• 🏗️ Learn and apply software design and architecture principles.
-• 🔄 Work with CI/CD, version control, cloud, and modern development practices.
-• 🤝 Collaborate with engineering, QA, product, and cross-functional teams.
-• 📈 Continuously develop professional software engineering skills.
+*IT Infrastructure Engineer turned Backend Engineer, building secure, scalable systems.*
 
-───
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-🎯 Career Objective
-To begin my professional career as a Java Software Engineer / Backend Developer / Associate Software Engineer / SDE 1 / Junior Software Engineer and contribute to the development, maintenance, and continuous improvement of reliable software systems.
-I am open to 0–2 years / Fresher / Entry-Level opportunities across:
-• 🏢 Product-Based Companies
-• 🌐 MNCs
-• 🏛️ Global Capability Centers (GCCs)
-• 💼 IT Services & ITES Organizations
-• 🚀 Technology Startups
-• ☁️ SaaS Companies
-• 🏦 Banking & Financial Services
-• 💳 FinTech Organizations
-• 🛡️ MSP / MSSP Organizations
-• 🏭 Enterprise Technology Organizations
-• 🧩 Consulting & Technology Services
+</div>
 
-───
+---
 
-🛠️ Technical Skills
-☕ Programming
-• Java
-• SQL
-• [Add other languages only if applicable]
-🌱 Java & Backend Development
-• Core Java
-• Object-Oriented Programming
-• Java Collections Framework
-• Exception Handling
-• Generics
-• Streams & Lambda Expressions
-• Multithreading & Concurrency Fundamentals
-• JDBC
-• Maven / Gradle
-• Spring Framework
-• Spring Boot
-• Spring MVC
-• Spring Data JPA
-• Hibernate / JPA
-• RESTful Web Services
-• JSON
-• Microservices Fundamentals
-🗄️ Databases
-Relational Databases
-• SQL
-• MySQL
-• PostgreSQL
-• Database Design
-• Joins
-• Indexing
-• Transactions
-• Normalization
-• Query Optimization Fundamentals
-NoSQL
-• MongoDB
-• NoSQL Fundamentals
-• [Redis — if applicable]
-🔐 API Development & Security
-• REST API Design
-• HTTP / HTTPS
-• API Validation
-• Exception Handling
-• Authentication & Authorization
-• JWT
-• Spring Security
-• Role-Based Access Control
-• Postman
-• OpenAPI / Swagger
-🧪 Testing
-• JUnit
-• Mockito
-• Unit Testing
-• Integration Testing
-• API Testing
-• Test Automation Fundamentals
-🔧 Development Tools
-• Git
-• GitHub
-• IntelliJ IDEA
-• VS Code
-• Maven
-• Gradle
-• Postman
-• Linux / Unix Fundamentals
-☁️ DevOps & Cloud Fundamentals
-• Docker
-• GitHub Actions
-• CI/CD
-• [AWS / Azure / GCP — if applicable]
-• [Jenkins — if applicable]
-• [Kubernetes — if applicable]
-🏗️ Software Engineering
-• Data Structures & Algorithms
-• Object-Oriented Design
-• SOLID Principles
-• Design Patterns
-• Clean Code
-• SDLC
-• Agile / Scrum
-• Version Control
-• Code Review
-• Debugging & Troubleshooting
-• Software Testing
-• System Design Fundamentals
-• Low-Level Design Fundamentals
+## 🧑‍💻 About Me
 
-───
+- 🔭 IT Helpdesk Engineer with **2.5+ years** in an enterprise hospitality environment, now transitioning into a **Java Software Development Engineer** role
+- 🎓 B.Tech in Computer Science & Engineering, **GLA University, Mathura** (2020)
+- 📜 Advanced Certification in **Backend Software Development**: Great Learning × IIT Roorkee
+- 🏢 Building **[TECHSPIRE IT Labs LLP](https://github.com/YOUR_USERNAME)**, an IT & cybersecurity consulting venture
+- 🛠️ Background spanning IT infrastructure, defensive security, and full-stack development (ASP.NET MVC, C#)
+- 📍 Based in Noida, Uttar Pradesh, India
+- 💼 **Open to Java Backend Developer opportunities**
 
-🧩 Data Structures & Algorithms
-I actively practice Data Structures and Algorithms to strengthen problem-solving, programming fundamentals, and technical interview skills.
-Areas of Focus
-• Arrays
-• Strings
-• Hashing
-• Linked Lists
-• Stacks
-• Queues
-• Trees
-• Binary Search Trees
-• Heaps / Priority Queues
-• Graphs
-• Recursion
-• Backtracking
-• Sorting
-• Searching
-• Binary Search
-• Two Pointers
-• Sliding Window
-• Prefix Sum
-• Greedy Algorithms
-• Dynamic Programming
-• Bit Manipulation
-My focus is on understanding algorithm selection, time complexity, space complexity, edge cases, and implementation quality.
+---
 
-───
+## 🧰 Tech Stack
 
-🚀 Software Development Projects
-My projects focus on applying software engineering concepts through practical implementation.
-📌 Java Backend Application
-Technologies: Java • Spring Boot • REST API • JPA/Hibernate • SQL • [Database]
-A backend application designed to demonstrate Java-based application development and REST API implementation.
-Key Engineering Areas
-• 🔗 RESTful API development
-• 🏗️ Layered application architecture
-• ⚙️ Business logic implementation
-• 🗄️ Database integration
-• ✏️ CRUD operations
-• ✅ Request validation
-• ⚠️ Exception handling
-• 🔄 Transaction management
-• 🔐 Authentication & authorization
-• 🧪 Unit and integration testing
-• 📖 API documentation
-🔗 Repository:[Repository Link]
+**Languages & Frameworks**
 
-───
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-📌 [Project Name]
-Technologies:[Technologies]
-Brief description of the business problem addressed by the application and the engineering approach used to solve it.
-Key Engineering Areas
-• ⚙️ [Feature / Engineering Concept]
-• 🗄️ [Feature / Engineering Concept]
-• 🔐 [Feature / Engineering Concept]
-• 🧪 [Feature / Engineering Concept]
-🔗 Repository:[Repository Link]
+**Databases & Messaging**
 
-───
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-📌 [Project Name]
-Technologies:[Technologies]
-A project focused on [brief description].
-Key Engineering Areas
-• 💻 [Feature / Engineering Concept]
-• 🔗 [Feature / Engineering Concept]
-• 🗄️ [Feature / Engineering Concept]
-• 🧪 [Feature / Engineering Concept]
-🔗 Repository:[Repository Link]
+**Security & Architecture**
 
-───
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=postman&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
 
-🏗️ Engineering Practices
-I am continuously developing an understanding of professional software engineering practices, including:
-• 🧹 Clean and maintainable code
-• 🧩 Separation of concerns
-• 🏛️ Object-oriented design
-• 📐 SOLID principles
-• 🛡️ Defensive programming
-• ✅ Input validation
-• ⚠️ Exception handling
-• 📝 Logging
-• 🧪 Unit and integration testing
-• 🌿 Git-based development workflows
-• 👀 Code reviews
-• 📚 API documentation
-• 🗄️ Database design
-• ⚡ Performance considerations
-• 🔐 Secure application development
-• 🔄 CI/CD fundamentals
-• 🔁 Agile development practices
+**Tools**
 
-───
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-📚 Currently Learning
-☕ Java & Backend
-• Advanced Java
-• Spring Boot
-• Spring Security
-• REST API Development
-• JPA / Hibernate
-• Microservices Architecture
-🏗️ Software Engineering
-• Low-Level Design
-• System Design
-• Design Patterns
-• Clean Architecture
-• Distributed Systems Fundamentals
-• Performance Optimization
-☁️ Cloud & DevOps
-• Docker
-• CI/CD
-• Cloud Computing
-• AWS / Azure / GCP
-• Kubernetes Fundamentals
+---
 
-───
+## 🚀 Featured Projects
 
-📊 GitHub Statistics
- <p align="center"> <img src="./profile/stats.svg" alt="GitHub Statistics" /> </p> <p align="center"> <img src="./profile/top-langs.svg" alt="Most Used Languages" /> </p> 
-📈 My GitHub activity reflects ongoing learning, software development projects, programming practice, experimentation, and technical exploration.
+### 🎫 FlowDesk: Ticket Management System
+A multi-module **Spring Boot microservices** system that evolved from a standalone HTML Kanban app.
+- **Stack:** Java 21, Spring Cloud, Kafka, Eureka, Redis, PostgreSQL, Flyway, Resilience4j
+- **Highlights:** JWT-secured API gateway, service discovery, event-driven communication, fault tolerance
+- 🔗 [Repository](https://github.com/YOUR_USERNAME/flowdesk)
 
-───
+### 🏢 Mini ERP System
+A layered **Spring Boot** ERP with a CRM-lite module and a vanilla JS dashboard.
+- **Highlights:** Full CRUD, validation, global exception handling, H2/MySQL support
+- 🔗 [Repository](https://github.com/YOUR_USERNAME/mini-erp)
 
-🎓 Education
-[Degree / Qualification]
- [University / Institution]
- [Year]
-Relevant Coursework
-• 💻 Object-Oriented Programming
-• 🧩 Data Structures & Algorithms
-• 🗄️ Database Management Systems
-• 🖥️ Operating Systems
-• 🌐 Computer Networks
-• 🏗️ Software Engineering
-• ⚙️ Computer Architecture
-• 🔐 [Other relevant subject]
+### 🎤 AI Mock Interview Platform
+A production-grade **React** app integrated with the **Claude API** for realistic interview practice.
+- **Highlights:** Role/seniority configuration, AI-driven question flows, per-response feedback
+- 🔗 [Repository](https://github.com/YOUR_USERNAME/mock-interview)
 
-───
+---
 
-📜 Certifications & Professional Development
-• 🏅 [Certification Name] — [Issuing Organization]
-• 🏅 [Certification Name] — [Issuing Organization]
-• 📚 [Course / Program] — [Organization]
-Only completed or currently pursued certifications and programs should be listed.
+## 🏢 TECHSPIRE IT Labs LLP
 
-───
+An early-stage consultancy offering:
+- 🌐 Web application & business management systems development
+- 💻 Software development engineering
+- 🔐 IT engineering & defensive cybersecurity
+- 📊 Data science & big data analytics
+- 🤖 Online AI services
 
-🌱 Personal Interests & Hobbies
-Outside software engineering, I enjoy activities that support curiosity, continuous learning, creativity, and personal development.
-• 💻 Exploring technology and emerging software trends
-• 📚 Reading and continuous learning
-• 🧠 Problem solving and logical reasoning
-• 🎮 [Actual Hobby]
-• 🎵 [Actual Hobby]
-• 🏏 [Actual Hobby]
-• ✈️ [Actual Hobby]
-This section should reflect genuine personal interests rather than generic hobbies.
+---
 
-───
+## 📊 GitHub Stats
 
-🔎 Professional Interests
-I am particularly interested in working on:
-• ☕ Java Backend Engineering
-• 🏢 Enterprise Application Development
-• 🔗 REST APIs
-• 🧩 Microservices
-• 🌐 Distributed Systems
-• ☁️ Cloud-Based Applications
-• 🚀 SaaS Platforms
-• 🏦 FinTech / Banking Technology
-• 🏭 Enterprise Software
-• 🔐 Application Security
-• ⚙️ Automation
-• 📊 Data-Driven Applications
-• 🛠️ Developer Tools
+<div align="center">
 
-───
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
-🤝 Open Source & Collaboration
-I am interested in contributing to open-source projects related to:
-• Java
-• Spring Boot
-• Backend Development
-• APIs
-• Cloud & DevOps
-• Developer Productivity
-• Application Security
-• Enterprise Software
-I value collaborative development, constructive code reviews, documentation, knowledge sharing, and continuous improvement.
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
-───
+</div>
 
-🔗 Professional Links
-• 💼 LinkedIn: [LinkedIn Profile]
-• 🐙 GitHub: [GitHub Profile]
-• 🧩 LeetCode: [LeetCode Profile]
-• 💻 GeeksforGeeks: [GeeksforGeeks Profile]
-• 🌐 Portfolio: [Portfolio URL]
-• 📧 Email: [Professional Email]
+---
 
-───
+## 🌱 Currently
 
-💼 Open to Opportunities
-I am currently open to Fresher / Entry-Level / 0–2 Years opportunities in:
-Java Developer · Java Software Engineer · Backend Developer · Associate Software Engineer · Associate Java SDE · SDE 1 · Junior Software Engineer · Software Developer · Application Developer · Graduate Software Engineer
-I am particularly interested in organizations where I can work on real-world software systems, backend services, enterprise applications, scalable platforms, and production engineering practices.
+- 📚 Deepening knowledge of **microservices patterns**, **Spring Security**, and **system design**
+- 🧪 Strengthening my portfolio with production-grade backend projects
+- 🎯 Targeting **Java Backend / SDE** roles
 
-───
+---
 
-👋 Thank You
-Thank you for visiting my GitHub profile.
-I am always interested in learning, building, collaborating, and contributing to meaningful software projects.
-📌 Java | Backend Engineering | Software Development | Problem Solving | Continuous Learning
+## 🤝 Let's Connect
+
+I'm happy to talk about backend development, security, or collaboration.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO)
+
+*⭐ If you like my work, consider starring a repo!*
+
+</div>
