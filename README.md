@@ -2,7 +2,7 @@
 
 # 👨‍💼👋 Hi, I'm Shashankshekhar Singh
 
-### Java Backend Developer | Spring Boot • Microservices • Security
+### Java Backend Developer | Spring Framework • Microservices • Defrensive IT and Cybersecurity
 
 *IT Helpdesk Engineer turned Backend Engineer, building secure, scalable systems.*
 
